@@ -5,6 +5,7 @@
 
 * [Summary](workshop/COURSE_SUMMARY.md)
 * [Slides](workshop/Reactive%20Spring%20Boot%20With%20Coroutines%20and%20Virtual%20Threads%20-%20KotlinConf%202026.pdf)
+* [Sources](workshop/kotlin-training-labs.zip)
 
 *Decision Tree: When to use which Spring Boot Stack*
 
