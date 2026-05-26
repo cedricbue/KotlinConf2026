@@ -1,0 +1,43 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Maven
+target/
+*.jar
+*.war
+
+# Node / Angular
+node_modules/
+dist/
+.angular/
+
+# Angular build output (generated during Maven build, not committed)
+src/main/resources/static/
+
+# Generated frontend API (openapi-generator output)
+frontend/src/app/core/api/
+
+# Data
+data/session.csv
+data/bike-fit/*
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
+
+# Docker Compose runtime data
+compose/data/
+
+# Environment
+.env
+*.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude
+.claude/
